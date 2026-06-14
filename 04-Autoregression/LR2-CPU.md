@@ -1,5 +1,5 @@
 # Отчет по лабораторной работе №2 (CPU-вариант)
-## Декодерный трансформер на Tiny Shakespeare
+## [Декодерный трансформер на Tiny Shakespeare](https://github.com/Stepanova-Anna/edu-ai-math-essentials/blob/main/04-Autoregression/02_decoder_only_tiny_shakespeare.ipynb)
 
 ---
 
