@@ -1,5 +1,5 @@
 # Отчет по лабораторной работе №1
-## SimpleRNN для задачи many-to-one
+## (SimpleRNN для задачи many-to-one)[https://github.com/Stepanova-Anna/edu-ai-math-essentials/blob/main/01-RNN/01_simple_rnn_many_to_one_toy.ipynb]
 
 ---
 
