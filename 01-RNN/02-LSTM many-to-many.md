@@ -1,5 +1,5 @@
 # Отчет по лабораторной работе №2
-## LSTM для задачи many-to-many
+## [LSTM для задачи many-to-many](https://github.com/Stepanova-Anna/edu-ai-math-essentials/blob/main/01-RNN/02_lstm_many_to_many_toy.ipynb)
 
 ---
 
