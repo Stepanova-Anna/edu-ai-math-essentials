@@ -1,5 +1,5 @@
 # Отчет по лабораторной работе №1 (блок Autoregression)
-## Декодерный трансформер для предсказания следующего токена
+## [Декодерный трансформер для предсказания следующего токена](https://github.com/Stepanova-Anna/edu-ai-math-essentials/blob/main/04-Autoregression/01_decoder_only_causal_toy.ipynb)
 
 ---
 
