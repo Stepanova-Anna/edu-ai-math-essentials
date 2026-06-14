@@ -1,5 +1,5 @@
 # Отчет по лабораторной работе №3
-## GRU Encoder-Decoder для задачи seq2seq (reverse)
+## [GRU Encoder-Decoder для задачи seq2seq (reverse)](https://github.com/Stepanova-Anna/edu-ai-math-essentials/blob/main/01-RNN/03_gru_seq2seq_reverse_toy.ipynb)
 
 ---
 
