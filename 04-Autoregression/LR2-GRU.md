@@ -1,5 +1,5 @@
 # Отчет по лабораторной работе №2 (GPU-вариант)
-## Декодерный трансформер на Tiny Shakespeare (увеличенная модель)
+## [Декодерный трансформер на Tiny Shakespeare (увеличенная модель)](https://github.com/Stepanova-Anna/edu-ai-math-essentials/blob/main/04-Autoregression/02_decoder_only_tiny_shakespeare_gpu.ipynb)
 
 ---
 
