@@ -27,7 +27,8 @@
 
 # Скриншоты выполнения
 
-<img width="661" height="743" alt="image" src="https://github.com/user-attachments/assets/68cb0026-f0b8-4a26-a7fa-e3e8c8b2f2db" />
+<img width="516" height="749" alt="image" src="https://github.com/user-attachments/assets/8c4b0ce0-e0a2-40fb-96c5-90cd6d16e125" />
+
 
 <img width="904" height="623" alt="image" src="https://github.com/user-attachments/assets/2eb2c130-5b7a-4d50-bece-899f71938501" />
 
@@ -35,6 +36,11 @@
 
 <img width="900" height="161" alt="image" src="https://github.com/user-attachments/assets/55aa6a27-d888-478d-a447-39dfa22d9221" />
 
+<img width="779" height="784" alt="image" src="https://github.com/user-attachments/assets/36b70178-a3c4-45fd-83cb-e0eae54a5571" />
+
+<img width="1310" height="409" alt="image" src="https://github.com/user-attachments/assets/bd337ba8-6645-43b2-a0ee-a7ac88358255" />
+
+<img width="1189" height="390" alt="image" src="https://github.com/user-attachments/assets/4937ea5b-9e19-489b-a75d-5b862ee507f5" />
 
 
 
@@ -44,10 +50,11 @@
 
 
 
+<img width="486" height="181" alt="image" src="https://github.com/user-attachments/assets/9900c969-6151-4514-9380-0d9bd7e1c94b" />
 
+<img width="938" height="790" alt="image" src="https://github.com/user-attachments/assets/436fc1f3-92aa-4277-a851-77f33120b472" />
 
-
-
+<img width="523" height="240" alt="image" src="https://github.com/user-attachments/assets/6e5c9fcd-8d22-4608-b3b6-b358af947438" />
 
 
 
