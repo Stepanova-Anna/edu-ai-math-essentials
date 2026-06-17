@@ -1,6 +1,8 @@
 # Отчет по лабораторной работе №5
 ## Полный трансформер encoder-decoder на Tiny Shakespeare
 
+[Ссылка на collab](https://colab.research.google.com/drive/1n-Amfs8u1iy8RTF_H2E7O58Vbf55_Yxu?usp=sharing)
+
 ---
 
 ## Цель работы
