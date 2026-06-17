@@ -1,6 +1,8 @@
 # Лабораторная работа №1
 ## Логистическая регрессия. Предсказание оттока клиентов банка
 
+[Ссылка на google collab](https://colab.research.google.com/drive/1eQ6Ug5L4lgIRBu8PFetYtufom59BkhfL?usp=sharing)
+
 ---
 
 ## 1. Цель работы
